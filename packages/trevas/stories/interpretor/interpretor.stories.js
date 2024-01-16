@@ -232,7 +232,7 @@ storiesOf('Interpretor/Function/Numeric', module).add('Mod', () => (
 storiesOf('Interpretor/Function/Numeric', module).add('Power', () => (
 	<Interpretor expression="power(3, 2)" />
 ));
-storiesOf('Interpretor/Function/Numeric', module).add('Abs', () => (
+storiesOf('Interpretor/Function/Numeric', module).add('Random', () => (
 	<Interpretor expression="random()" />
 ));
 storiesOf('Interpretor/Function/Numeric', module).add('Round', () => (
