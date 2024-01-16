@@ -3,13 +3,12 @@
 Trevas JS is a JavaScript engine for the [Validation and Transformation Language](https://sdmx.org/?page_id=5096). It is part of the Trevas family, together with the [Trevas](https://github.com/InseeFr/Trevas) Java engine.
 
 [![Trevas JS CI](https://github.com/InseeFr/Trevas-JS/actions/workflows/ci.yml/badge.svg)](https://github.com/InseeFr/Trevas-JS/actions/workflows/ci.yml)
+[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)](https://inseefr.github.io/Trevas-JS/storybook)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=InseeFr_Trevas-JS&metric=coverage)](https://sonarcloud.io/dashboard?id=InseeFr_Trevas-JS)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=InseeFr_Trevas-JS&metric=alert_status)](https://sonarcloud.io/dashboard?id=InseeFr_Trevas-JS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 The documentation can be found in the [docs](https://github.com/InseeFr/Trevas-JS/tree/master/docs) folder and [browsed online](https://inseefr.github.io/Trevas-JS).
-
-A [Storybook](https://inseefr.github.io/Trevas-JS/storybook) is also available online.
 
 ## Packages
 
