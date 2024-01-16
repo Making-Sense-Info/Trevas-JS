@@ -53,6 +53,7 @@
 | Power             | power  | :heavy_check_mark: |
 | Logarithm         | log    | :heavy_check_mark: |
 | Square root       | sqrt   | :heavy_check_mark: |
+| Random            | random | :heavy_check_mark: |
 
 ### VTL-ML - Comparison operators
 
